@@ -1,0 +1,35 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #495057;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin-top: 50px;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    color: #007bff;
+  }
+  
+  header p {
+    font-size: 1rem;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
